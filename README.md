@@ -13,5 +13,9 @@
 <br>
 <br>
 <a href="https://www.linkedin.com/in/euler-lancaster-021a04302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br>
+<br>
 
+[![Lancaster stats](https://github-readme-stats.vercel.app/api?username=Lancaster07)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancaster07)](https://github.com/anuraghazra/github-readme-stats)
